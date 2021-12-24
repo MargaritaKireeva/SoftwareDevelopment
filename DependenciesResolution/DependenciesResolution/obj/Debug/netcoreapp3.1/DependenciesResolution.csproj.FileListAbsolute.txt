@@ -1,0 +1,13 @@
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.exe
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.deps.json
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.runtimeconfig.json
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.runtimeconfig.dev.json
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.dll
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\bin\Debug\netcoreapp3.1\DependenciesResolution.pdb
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.csprojAssemblyReference.cache
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.AssemblyInfoInputs.cache
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.AssemblyInfo.cs
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.csproj.CoreCompileInputs.cache
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.dll
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.pdb
+D:\Технологии разработки ПО\DependenciesResolution\DependenciesResolution\obj\Debug\netcoreapp3.1\DependenciesResolution.genruntimeconfig.cache
