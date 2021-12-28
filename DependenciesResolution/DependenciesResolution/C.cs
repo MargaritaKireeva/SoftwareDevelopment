@@ -4,11 +4,11 @@ using System.Text;
 
 namespace DependenciesResolution
 {
-    public class B : IB
+    public class C
     {
-        public B(C c) 
+        public C(IA a)
         {
-            Console.WriteLine("class B");
+            Console.WriteLine("class C");
         }
     }
 }

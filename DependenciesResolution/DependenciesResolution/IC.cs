@@ -4,11 +4,7 @@ using System.Text;
 
 namespace DependenciesResolution
 {
-    public class B : IB
+    public interface IC
     {
-        public B(C c) 
-        {
-            Console.WriteLine("class B");
-        }
     }
 }
